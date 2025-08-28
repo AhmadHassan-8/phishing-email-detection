@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+scikit-learn
+xgboost
+lightgbm
+catboost
+tensorflow
+gradio
